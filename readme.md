@@ -7,6 +7,8 @@ The city science server uses the java version of mincraft. First you will need t
 
 1. create an account at https://my.minecraft.net/en-us/store/minecraft/#register
 
+![](images/create_account.png)
+
 2. buy minecraft (apperently it is not free…)
 
 3. download the launcher
@@ -17,6 +19,8 @@ At this point you can play mincraft locally with the *vanilla* version. To conne
 This is a different version of minecraft that let’s you modify the game (use `mods`). We’re not sure if we will be overly excited to actually create `mods` but we’re using it just in case.
 
 1. Download Forge MC 1.15.2 (http://files.minecraftforge.net/)
+
+![](images/dl_forge.png)
 
 2. Install it by double clicking the forge-X.Y.Z-A.B.C-installer.jar file.
   * you may need to install the [latest Java Run Time](https://java.com/en/download/)
@@ -29,9 +33,15 @@ So everything out of the way, we are now ready to connect!
 
 1. launch minecraft, check if you see forge next to the play button. and hit play.
 
+![](images/splash.png)
+
 2. we want multiplayer, so click multiplayer
 
+![](images/multiplayer.png)
+
 3. add server with the ip address and port (ask yasushi for this info)
+
+![](images/server_infor.png)
 
 4. connect
 
